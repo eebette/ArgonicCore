@@ -57,6 +57,7 @@
     <Compile Include="Comps\CompCoatableWall.cs" />
     <Compile Include="Comps\CompContaminable.cs" />
     <Compile Include="Comps\CompCrate.cs" />
+    <Compile Include="Comps\CompHediffAura.cs" />
     <Compile Include="Comps\CompOneTimeProcessor.cs" />
     <Compile Include="Comps\CompResourceDigger.cs" />
     <Compile Include="Comps\CompRuinOverTime.cs" />
